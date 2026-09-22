@@ -91,6 +91,20 @@ AIGC
     └── final-render
 ```
 
+## 当前已实现
+
+第一批 Foundation Skills 已建立：
+
+```text
+story-writer
+→ character-bible
+→ scene-breakdown
+→ storyboard-generator
+→ shot-planner
+```
+
+索引见 `skills/README.md`。
+
 ## 学习里程碑
 
 ### Milestone 1 — 跑通 30 秒 AI 漫剧
@@ -112,8 +126,8 @@ AIGC
 1. `README.md` — 理解总目标与系统边界
 2. `docs/AI_ROUTING.md` — 判断该调用哪些模块、哪些项目只能参考
 3. `docs/FUSION_PLAN.md` — 理解外部项目如何被吸收进本体系
-
-若未来新增 `skills/`，再读取对应模块下的 `SKILL.md`。
+4. `skills/README.md` — 查看当前已经实现的 Skills
+5. 与当前任务对应的 `SKILL.md`
 
 ## 当前参考项目
 
